@@ -1,0 +1,50 @@
+nav li{
+    list-style-type: none;
+    float: left;
+    margin-left: 100px;
+    padding-top: -10px;
+    font-size: 10px;
+  
+
+}
+body{
+    background-color: black;
+
+}
+.container1{
+    color: white;
+    margin-left: 40px;
+    margin-top: 50px;
+    font-size: 15px;
+    /* padding-top: -8px; */
+
+}
+
+nav li a{
+    color: white;
+    text-decoration: none;
+    margin-top: -300px;
+   
+  
+}
+nav{
+    margin-left: -10px;
+    padding-left: 235px;
+    height: 70px;
+    display: inline-block;
+    width: 83%;
+    margin-top: -1px;
+}
+.container2 h1{
+    font-size: 15px;
+    color: white;
+}
+
+.container3 h1{
+    font-size: 30px;
+    color: white;
+}
+.container4{
+  
+
+}
